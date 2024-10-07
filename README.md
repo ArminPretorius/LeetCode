@@ -13,6 +13,7 @@ This Month's LeetCode Solutions:
 All LeetCode Solutions:
 |Number|Title|Language|
 |--|--|--|
+|1|[Two Sum](/1)|[Python](/1/1.py), [C#](/1/1.cs)|
 |567|[Permutation in String](/567)|[Python](/567/567.py)|
 |1331|[Rank Transform of an Array](/1331)|[Python](/1331/1331.py)|
 |1497|[Check if Array Pairs are Divisible by K](/1497)|[Python](/1497/1497.py)|
