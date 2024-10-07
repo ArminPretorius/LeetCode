@@ -14,6 +14,11 @@ All LeetCode Solutions:
 |Number|Title|Language|
 |--|--|--|
 |1|[Two Sum](/1)|[Python](/1/1.py), [C#](/1/1.cs)|
+|9|[Palindrome Number](/9)|[Python](/9/9.py)|
+|13|[Roman to Integer](/13)|[Python](/13/13.py)|
+|14|[Longest Common Prefix](/14)|[Python](/14/14.py)|
+|20|[Valid Parentheses](/20)|[Python](/20/20.py)|
+|21|[Merge Two Sorted Lists](/21)|[Python](/21/21.py)|
 |567|[Permutation in String](/567)|[Python](/567/567.py)|
 |1331|[Rank Transform of an Array](/1331)|[Python](/1331/1331.py)|
 |1497|[Check if Array Pairs are Divisible by K](/1497)|[Python](/1497/1497.py)|
