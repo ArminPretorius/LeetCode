@@ -2,6 +2,7 @@
 My LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|07-Oct-2024|2696|[Minimum String Length After Removing Substrings](/Python/2696.py)|Python|
 |06-Oct-2024|1813|[Sentence Similarity III](/Python/1813.py)|Python|
 |05-Oct-2024|567|[Permutation in String](/Python/567.py)|Python|
 |04-Oct-2024|2491|[Divide Players Into Teams of Equal Skill](/Python/2491.py)|Python|
