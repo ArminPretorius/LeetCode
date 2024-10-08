@@ -14,7 +14,7 @@ All LeetCode Solutions:
 |Number|Title|Language|
 |--|--|--|
 |1|[Two Sum](/1)|[Python](/1/1.py), [C#](/1/1.cs)|
-|9|[Palindrome Number](/9)|[Python](/9/9.py), [C#](/9/9.cs)|
+|9|[Palindrome Number](/9)|[Python](/9/9.py), [C#](/9/9.cs), [Java](/9/9.java)|
 |13|[Roman to Integer](/13)|[Python](/13/13.py)|
 |14|[Longest Common Prefix](/14)|[Python](/14/14.py)|
 |20|[Valid Parentheses](/20)|[Python](/20/20.py)|
