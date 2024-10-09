@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|09-Oct-2024|921|[Minimum Add to Make Parentheses Valid](/921)|[Python](/921/921.py), [C#](/921/921.cs), [Java](/921/921.java)|
 |08-Oct-2024|1963|[Minimum Number of Swaps to Make the String Balanced](/1963)|[Python](/1963/1963.py), [C#](/1963/1963.cs), [Java](/1963/1963.java)|
 |07-Oct-2024|2696|[Minimum String Length After Removing Substrings](/2696)|[Python](/2696/2696.py), [C#](/2696/2696.cs)|
 |06-Oct-2024|1813|[Sentence Similarity III](/1813)|[Python](/1813/1813.py)|
@@ -21,6 +22,7 @@ All LeetCode Solutions:
 |20|[Valid Parentheses](/20)|[Python](/20/20.py)|
 |21|[Merge Two Sorted Lists](/21)|[Python](/21/21.py)|
 |567|[Permutation in String](/567)|[Python](/567/567.py)|
+|921|[Minimum Add to Make Parentheses Valid](/921)|[Python](/921/921.py), [C#](/921/921.cs), [Java](/921/921.java)|
 |1331|[Rank Transform of an Array](/1331)|[Python](/1331/1331.py)|
 |1497|[Check if Array Pairs are Divisible by K](/1497)|[Python](/1497/1497.py)|
 |1590|[Make Sum Divisible by P](/1590)|[Python](/1590/1590.py)|
