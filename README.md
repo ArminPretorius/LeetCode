@@ -4,7 +4,7 @@ This Month's LeetCode Solutions:
 |--|--|--|--|
 |09-Oct-2024|921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
 |08-Oct-2024|1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
-|07-Oct-2024|2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs)|
+|07-Oct-2024|2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs), [Java](/Solutions/2696/2696.java)|
 |06-Oct-2024|1813|[Sentence Similarity III](/Solutions/1813)|[Python](/Solutions/1813/1813.py)|
 |05-Oct-2024|567|[Permutation in String](/Solutions/567)|[Python](/Solutions/567/567.py)|
 |04-Oct-2024|2491|[Divide Players Into Teams of Equal Skill](/Solutions/2491)|[Python](/Solutions/2491/2491.py)|
