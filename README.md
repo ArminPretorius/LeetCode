@@ -2,31 +2,31 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
-|09-Oct-2024|921|[Minimum Add to Make Parentheses Valid](/921)|[Python](/921/921.py), [C#](/921/921.cs), [Java](/921/921.java)|
-|08-Oct-2024|1963|[Minimum Number of Swaps to Make the String Balanced](/1963)|[Python](/1963/1963.py), [C#](/1963/1963.cs), [Java](/1963/1963.java)|
-|07-Oct-2024|2696|[Minimum String Length After Removing Substrings](/2696)|[Python](/2696/2696.py), [C#](/2696/2696.cs)|
-|06-Oct-2024|1813|[Sentence Similarity III](/1813)|[Python](/1813/1813.py)|
-|05-Oct-2024|567|[Permutation in String](/567)|[Python](/567/567.py)|
-|04-Oct-2024|2491|[Divide Players Into Teams of Equal Skill](/2491)|[Python](/2491/2491.py)|
-|03-Oct-2024|1590|[Make Sum Divisible by P](/1590)|[Python](/1590/1590.py)|
-|02-Oct-2024|1331|[Rank Transform of an Array](/1331)|[Python](/1331/1331.py)|
-|01-Oct-2024|1497|[Check if Array Pairs are Divisible by K](/1497)|[Python](/1497/1497.py)|
+|09-Oct-2024|921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
+|08-Oct-2024|1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
+|07-Oct-2024|2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs)|
+|06-Oct-2024|1813|[Sentence Similarity III](/Solutions/1813)|[Python](/Solutions/1813/1813.py)|
+|05-Oct-2024|567|[Permutation in String](/Solutions/567)|[Python](/Solutions/567/567.py)|
+|04-Oct-2024|2491|[Divide Players Into Teams of Equal Skill](/Solutions/2491)|[Python](/Solutions/2491/2491.py)|
+|03-Oct-2024|1590|[Make Sum Divisible by P](/Solutions/1590)|[Python](/Solutions/1590/1590.py)|
+|02-Oct-2024|1331|[Rank Transform of an Array](/Solutions/1331)|[Python](/Solutions/1331/1331.py)|
+|01-Oct-2024|1497|[Check if Array Pairs are Divisible by K](/Solutions/1497)|[Python](/Solutions/1497/1497.py)|
 
 All LeetCode Solutions:
 |Number|Title|Language|
 |--|--|--|
-|1|[Two Sum](/1)|[Python](/1/1.py), [C#](/1/1.cs), [Java](/1/1.java)|
-|9|[Palindrome Number](/9)|[Python](/9/9.py), [C#](/9/9.cs), [Java](/9/9.java)|
-|13|[Roman to Integer](/13)|[Python](/13/13.py)|
-|14|[Longest Common Prefix](/14)|[Python](/14/14.py)|
-|20|[Valid Parentheses](/20)|[Python](/20/20.py)|
-|21|[Merge Two Sorted Lists](/21)|[Python](/21/21.py)|
-|567|[Permutation in String](/567)|[Python](/567/567.py)|
-|921|[Minimum Add to Make Parentheses Valid](/921)|[Python](/921/921.py), [C#](/921/921.cs), [Java](/921/921.java)|
-|1331|[Rank Transform of an Array](/1331)|[Python](/1331/1331.py)|
-|1497|[Check if Array Pairs are Divisible by K](/1497)|[Python](/1497/1497.py)|
-|1590|[Make Sum Divisible by P](/1590)|[Python](/1590/1590.py)|
-|1813|[Sentence Similarity III](/1813)|[Python](/1813/1813.py)|
-|1963|[Minimum Number of Swaps to Make the String Balanced](/1963)|[Python](/1963/1963.py), [C#](/1963/1963.cs), [Java](/1963/1963.java)|
-|2491|[Divide Players Into Teams of Equal Skill](/2491)|[Python](/2491/2491.py)|
-|2696|[Minimum String Length After Removing Substrings](/2696)|[Python](/2696/2696.py), [C#](/2696/2696.cs)|
+|1|[Two Sum](/Solutions/1)|[Python](/Solutions/1/1.py), [C#](/Solutions/1/1.cs), [Java](/Solutions/1/1.java)|
+|9|[Palindrome Number](/Solutions/9)|[Python](/Solutions/9/9.py), [C#](/Solutions/9/9.cs), [Java](/Solutions/9/9.java)|
+|13|[Roman to Integer](/Solutions/13)|[Python](/Solutions/13/13.py)|
+|14|[Longest Common Prefix](/Solutions/14)|[Python](/Solutions/14/14.py)|
+|20|[Valid Parentheses](/Solutions/20)|[Python](/Solutions/20/20.py)|
+|21|[Merge Two Sorted Lists](/Solutions/21)|[Python](/Solutions/21/21.py)|
+|567|[Permutation in String](/Solutions/567)|[Python](/Solutions/567/567.py)|
+|921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
+|1331|[Rank Transform of an Array](/Solutions/1331)|[Python](/Solutions/1331/1331.py)|
+|1497|[Check if Array Pairs are Divisible by K](/Solutions/1497)|[Python](/Solutions/1497/1497.py)|
+|1590|[Make Sum Divisible by P](/Solutions/1590)|[Python](/Solutions/1590/1590.py)|
+|1813|[Sentence Similarity III](/Solutions/1813)|[Python](/Solutions/1813/1813.py)|
+|1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
+|2491|[Divide Players Into Teams of Equal Skill](/Solutions/2491)|[Python](/Solutions/2491/2491.py)|
+|2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs)|
