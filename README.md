@@ -29,4 +29,4 @@ All LeetCode Solutions:
 |1813|[Sentence Similarity III](/Solutions/1813)|[Python](/Solutions/1813/1813.py)|
 |1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
 |2491|[Divide Players Into Teams of Equal Skill](/Solutions/2491)|[Python](/Solutions/2491/2491.py)|
-|2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs)|
+|2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs), [Java](/Solutions/2696/2696.java)|
