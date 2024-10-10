@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|10-Oct-2024|962|[Maximum Width Ramp](/Solutions/962)|[Python](/Solutions/962/962.py)|
 |09-Oct-2024|921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
 |08-Oct-2024|1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
 |07-Oct-2024|2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs), [Java](/Solutions/2696/2696.java)|
@@ -23,6 +24,7 @@ All LeetCode Solutions:
 |21|[Merge Two Sorted Lists](/Solutions/21)|[Python](/Solutions/21/21.py)|
 |567|[Permutation in String](/Solutions/567)|[Python](/Solutions/567/567.py)|
 |921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
+|962|[Maximum Width Ramp](/Solutions/962)|[Python](/Solutions/962/962.py)|
 |1331|[Rank Transform of an Array](/Solutions/1331)|[Python](/Solutions/1331/1331.py)|
 |1497|[Check if Array Pairs are Divisible by K](/Solutions/1497)|[Python](/Solutions/1497/1497.py)|
 |1590|[Make Sum Divisible by P](/Solutions/1590)|[Python](/Solutions/1590/1590.py)|
