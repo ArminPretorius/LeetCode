@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|11-Oct-2024|1942|[The Number of the Smallest Unoccupied Chair](/Solutions/1942)|[Python](/Solutions/1942/1942.py), [C#](/Solutions/1942/1942.cs), [Java](/Solutions/1942/1942.java)|
 |10-Oct-2024|962|[Maximum Width Ramp](/Solutions/962)|[Python](/Solutions/962/962.py), [C#](/Solutions/962/962.cs), [Java](/Solutions/962/962.java)|
 |09-Oct-2024|921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
 |08-Oct-2024|1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
@@ -29,6 +30,7 @@ All LeetCode Solutions:
 |1497|[Check if Array Pairs are Divisible by K](/Solutions/1497)|[Python](/Solutions/1497/1497.py)|
 |1590|[Make Sum Divisible by P](/Solutions/1590)|[Python](/Solutions/1590/1590.py)|
 |1813|[Sentence Similarity III](/Solutions/1813)|[Python](/Solutions/1813/1813.py)|
+|1942|[The Number of the Smallest Unoccupied Chair](/Solutions/1942)|[Python](/Solutions/1942/1942.py), [C#](/Solutions/1942/1942.cs), [Java](/Solutions/1942/1942.java)|
 |1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
 |2491|[Divide Players Into Teams of Equal Skill](/Solutions/2491)|[Python](/Solutions/2491/2491.py)|
 |2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs), [Java](/Solutions/2696/2696.java)|
