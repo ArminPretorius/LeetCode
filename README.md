@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|13-Oct-2024|632|Smallest Range Covering Elements from K Lists|Not Available|
 |12-Oct-2024|2406|[Divide Intervals Into Minimum Number of Groups](/Solutions/2406/)|[Python](/Solutions/2406/2406.py), [C#](/Solutions/2406/2406.cs), [Java](/Solutions/2406/2406.java)|
 |11-Oct-2024|1942|[The Number of the Smallest Unoccupied Chair](/Solutions/1942)|[Python](/Solutions/1942/1942.py), [C#](/Solutions/1942/1942.cs), [Java](/Solutions/1942/1942.java)|
 |10-Oct-2024|962|[Maximum Width Ramp](/Solutions/962)|[Python](/Solutions/962/962.py), [C#](/Solutions/962/962.cs), [Java](/Solutions/962/962.java)|
@@ -25,6 +26,7 @@ All LeetCode Solutions:
 |20|[Valid Parentheses](/Solutions/20)|[Python](/Solutions/20/20.py)|
 |21|[Merge Two Sorted Lists](/Solutions/21)|[Python](/Solutions/21/21.py)|
 |567|[Permutation in String](/Solutions/567)|[Python](/Solutions/567/567.py)|
+|632|Smallest Range Covering Elements from K Lists|Not Available|
 |921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
 |962|[Maximum Width Ramp](/Solutions/962)|[Python](/Solutions/962/962.py), [C#](/Solutions/962/962.cs), [Java](/Solutions/962/962.java)|
 |1331|[Rank Transform of an Array](/Solutions/1331)|[Python](/Solutions/1331/1331.py)|
