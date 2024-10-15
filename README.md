@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|15-Oct-2024|2938|Separate Black and White Balls|Not Available|
 |14-Oct-2024|2530|Maximal Score After Applying K Operations|Not Available|
 |13-Oct-2024|632|Smallest Range Covering Elements from K Lists|Not Available|
 |12-Oct-2024|2406|[Divide Intervals Into Minimum Number of Groups](/Solutions/2406/)|[Python](/Solutions/2406/2406.py), [C#](/Solutions/2406/2406.cs), [Java](/Solutions/2406/2406.java)|
@@ -39,3 +40,4 @@ All LeetCode Solutions:
 |2491|[Divide Players Into Teams of Equal Skill](/Solutions/2491)|[Python](/Solutions/2491/2491.py)|
 |2530|Maximal Score After Applying K Operations|Not Available|
 |2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs), [Java](/Solutions/2696/2696.java)|
+|2938|Separate Black and White Balls|Not Available|
