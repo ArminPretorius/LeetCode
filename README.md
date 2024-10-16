@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|16-Oct-2024|1405|Longest Happy String|Not Available|
 |15-Oct-2024|2938|Separate Black and White Balls|Not Available|
 |14-Oct-2024|2530|Maximal Score After Applying K Operations|Not Available|
 |13-Oct-2024|632|Smallest Range Covering Elements from K Lists|Not Available|
