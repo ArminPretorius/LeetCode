@@ -2,7 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
-|17-Oct-2024|670|[Maximum Swap](/Solutions/760)|[Python](/Solutions/760/760.py)|
+|17-Oct-2024|670|[Maximum Swap](/Solutions/670)|[Python](/Solutions/670/670.py)|
 |16-Oct-2024|1405|[Longest Happy String](/Solutions/1405)|[Python](/Solutions/1405/1405.py)|
 |15-Oct-2024|2938|[Separate Black and White Balls](/Solutions/2938)|[Python](/Solutions/2938/2938.py)|
 |14-Oct-2024|2530|[Maximal Score After Applying K Operations](/Solutions/2530)|[Java](/Solutions/2530/2530.java)|
