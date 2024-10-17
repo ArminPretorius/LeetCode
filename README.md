@@ -2,10 +2,11 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
-|16-Oct-2024|1405|Longest Happy String|Not Available|
-|15-Oct-2024|2938|Separate Black and White Balls|Not Available|
-|14-Oct-2024|2530|Maximal Score After Applying K Operations|Not Available|
-|13-Oct-2024|632|Smallest Range Covering Elements from K Lists|Not Available|
+|17-Oct-2024|670|[Maximum Swap](/Solutions/760)|[Python](/Solutions/760/760.py)|
+|16-Oct-2024|1405|[Longest Happy String](/Solutions/1405)|[Python](/Solutions/1405/1405.py)|
+|15-Oct-2024|2938|[Separate Black and White Balls](/Solutions/2938)|[Python](/Solutions/2938/2938.py)|
+|14-Oct-2024|2530|[Maximal Score After Applying K Operations](/Solutions/2530)|[Java](/Solutions/2530/2530.java)|
+|13-Oct-2024|632|[Smallest Range Covering Elements from K Lists](/Solutions/632)|[Python](/Solutions/632/632.py)|
 |12-Oct-2024|2406|[Divide Intervals Into Minimum Number of Groups](/Solutions/2406/)|[Python](/Solutions/2406/2406.py), [C#](/Solutions/2406/2406.cs), [Java](/Solutions/2406/2406.java)|
 |11-Oct-2024|1942|[The Number of the Smallest Unoccupied Chair](/Solutions/1942)|[Python](/Solutions/1942/1942.py), [C#](/Solutions/1942/1942.cs), [Java](/Solutions/1942/1942.java)|
 |10-Oct-2024|962|[Maximum Width Ramp](/Solutions/962)|[Python](/Solutions/962/962.py), [C#](/Solutions/962/962.cs), [Java](/Solutions/962/962.java)|
