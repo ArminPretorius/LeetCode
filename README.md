@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|18-Oct-2024|2044|[Count Number of Maximum Bitwise-OR Subsets](/Solutions/2044)|[Python](/Solutions/2044/2044.py)|
 |17-Oct-2024|670|[Maximum Swap](/Solutions/670)|[Python](/Solutions/670/670.py)|
 |16-Oct-2024|1405|[Longest Happy String](/Solutions/1405)|[Python](/Solutions/1405/1405.py)|
 |15-Oct-2024|2938|[Separate Black and White Balls](/Solutions/2938)|[Python](/Solutions/2938/2938.py)|
@@ -41,6 +42,7 @@ All LeetCode Solutions:
 |1813|[Sentence Similarity III](/Solutions/1813)|[Python](/Solutions/1813/1813.py)|
 |1942|[The Number of the Smallest Unoccupied Chair](/Solutions/1942)|[Python](/Solutions/1942/1942.py), [C#](/Solutions/1942/1942.cs), [Java](/Solutions/1942/1942.java)|
 |1963|[Minimum Number of Swaps to Make the String Balanced](/Solutions/1963)|[Python](/Solutions/1963/1963.py), [C#](/Solutions/1963/1963.cs), [Java](/Solutions/1963/1963.java)|
+|2044|[Count Number of Maximum Bitwise-OR Subsets](/Solutions/2044)|[Python](/Solutions/2044/2044.py)|
 |2491|[Divide Players Into Teams of Equal Skill](/Solutions/2491)|[Python](/Solutions/2491/2491.py)|
 |2530|[Maximal Score After Applying K Operations](/Solutions/2530)|[Java](/Solutions/2530/2530.java)|
 |2696|[Minimum String Length After Removing Substrings](/Solutions/2696)|[Python](/Solutions/2696/2696.py), [C#](/Solutions/2696/2696.cs), [Java](/Solutions/2696/2696.java)|
