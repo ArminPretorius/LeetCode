@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|19-Oct-2024|1545|[Find Kth Bit in Nth Binary String](/Solutions/1545)|[Python](/Solutions/1545/1545.py)|
 |18-Oct-2024|2044|[Count Number of Maximum Bitwise-OR Subsets](/Solutions/2044)|[Python](/Solutions/2044/2044.py)|
 |17-Oct-2024|670|[Maximum Swap](/Solutions/670)|[Python](/Solutions/670/670.py)|
 |16-Oct-2024|1405|[Longest Happy String](/Solutions/1405)|[Python](/Solutions/1405/1405.py)|
@@ -38,6 +39,7 @@ All LeetCode Solutions:
 |1331|[Rank Transform of an Array](/Solutions/1331)|[Python](/Solutions/1331/1331.py)|
 |1405|[Longest Happy String](/Solutions/1405)|[Python](/Solutions/1405/1405.py)|
 |1497|[Check if Array Pairs are Divisible by K](/Solutions/1497)|[Python](/Solutions/1497/1497.py)|
+|1545|[Find Kth Bit in Nth Binary String](/Solutions/1545)|[Python](/Solutions/1545/1545.py)|
 |1590|[Make Sum Divisible by P](/Solutions/1590)|[Python](/Solutions/1590/1590.py)|
 |1813|[Sentence Similarity III](/Solutions/1813)|[Python](/Solutions/1813/1813.py)|
 |1942|[The Number of the Smallest Unoccupied Chair](/Solutions/1942)|[Python](/Solutions/1942/1942.py), [C#](/Solutions/1942/1942.cs), [Java](/Solutions/1942/1942.java)|
