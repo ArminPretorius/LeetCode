@@ -2,6 +2,7 @@
 This Month's LeetCode Solutions:
 |Date|Number|Title|Language|
 |--|--|--|--|
+|20-Oct-2024|1106|[Parsing A Boolean Expression](/Solutions/1106)|[Python](/Solutions/1106/1106.py)|
 |19-Oct-2024|1545|[Find Kth Bit in Nth Binary String](/Solutions/1545)|[Python](/Solutions/1545/1545.py)|
 |18-Oct-2024|2044|[Count Number of Maximum Bitwise-OR Subsets](/Solutions/2044)|[Python](/Solutions/2044/2044.py)|
 |17-Oct-2024|670|[Maximum Swap](/Solutions/670)|[Python](/Solutions/670/670.py)|
@@ -36,6 +37,7 @@ All LeetCode Solutions:
 |670|[Maximum Swap](/Solutions/670)|[Python](/Solutions/670/670.py)|
 |921|[Minimum Add to Make Parentheses Valid](/Solutions/921)|[Python](/Solutions/921/921.py), [C#](/Solutions/921/921.cs), [Java](/Solutions/921/921.java)|
 |962|[Maximum Width Ramp](/Solutions/962)|[Python](/Solutions/962/962.py), [C#](/Solutions/962/962.cs), [Java](/Solutions/962/962.java)|
+|1106|[Parsing A Boolean Expression](/Solutions/1106)|[Python](/Solutions/1106/1106.py)|
 |1331|[Rank Transform of an Array](/Solutions/1331)|[Python](/Solutions/1331/1331.py)|
 |1405|[Longest Happy String](/Solutions/1405)|[Python](/Solutions/1405/1405.py)|
 |1497|[Check if Array Pairs are Divisible by K](/Solutions/1497)|[Python](/Solutions/1497/1497.py)|
